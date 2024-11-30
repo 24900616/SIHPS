@@ -35,17 +35,20 @@ The Feedback and Surveys module provides a platform for alumni to voice opinions
 ![image](https://github.com/user-attachments/assets/3383b063-0ebf-49ae-bfd1-bcf2e60bd539)
 
 ## Use Cases
+![image](https://github.com/user-attachments/assets/b2db6d7c-77ec-4ead-b68e-7d4a7b37a037)
 
 
 ## Technology Stack
+```
 NodeJS/Django
 Flutter/React Native
 PostgresSQL/MongoDB
 Cloud based solutions like AWS and Azure
 Gpay,Paytm and other mobile payment apps
 Linkedin,Naukri
-
+```
 ## Dependencies
+```
 Web(ReactJS/Angular)
 Mobile(React Native/Flutter)
 UI/UX Design
@@ -54,3 +57,4 @@ Database Management
 Cloud Marketing
 Testing and QA 
 budget$50000-$150000
+```
