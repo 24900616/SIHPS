@@ -27,6 +27,7 @@ The Alumni Directory serves as a searchable database of alumni profiles, includi
 
 Events and Reunions:
 The Events and Reunions feature enhances event management and participation. Alumni can view calendars, register for events, and access post-event galleries. Tools for live streaming and online meet-ups ensure inclusivity, making it easy for everyone to stay connected.
+
 feedback and surveys:
 The Feedback and Surveys module provides a platform for alumni to voice opinions, suggest improvements, and contribute ideas. Features like anonymous submissions and real-time analytics ensure feedback is constructive and impactful, guiding the association's future initiatives.
 
