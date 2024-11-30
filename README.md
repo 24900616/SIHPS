@@ -10,24 +10,24 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
-Alumni Registration
+Alumni Registration:
 The Alumni Registration module facilitates effortless connection with the institution. Featuring a streamlined interface, it enables alumni to register quickly, update professional profiles, and securely verify their identities. By maintaining an updated and comprehensive database, this feature fosters meaningful engagement and effective communication within the alumni community.
 
-Donation Portal
+Donation Portal:
 The Donation Portal cultivates a culture of giving back. Alumni can contribute securely and transparently to various initiatives and projects. The portal offers options to track the impact of donations and provides instant receipts, encouraging philanthropy while strengthening alumni relationships with the institution.
 
-Networking Hub
+Networking Hub:
 The Networking Hub connects alumni based on shared interests, career paths, and geographic locations. With features like interactive forums, chat rooms, and AI-driven suggestions, it promotes mentorship, collaboration, and professional networking. Alumni can discover new opportunities and grow their network while strengthening their sense of community.
 
-Job Portal
+Job Portal:
 The Job Portal provides a dynamic space for career growth. Alumni can explore job opportunities, post openings, and connect with recruiters within the network. Features like resume uploads, notifications for relevant roles, and alumni-specific job fairs make it a vital tool for career advancement.
 
-Alumni Directory
+Alumni Directory:
 The Alumni Directory serves as a searchable database of alumni profiles, including details such as graduation year, industry, and location. This tool fosters collaboration and community building by enabling easy access to professional and academic information.
 
-Events and Reunions
+Events and Reunions:
 The Events and Reunions feature enhances event management and participation. Alumni can view calendars, register for events, and access post-event galleries. Tools for live streaming and online meet-ups ensure inclusivity, making it easy for everyone to stay connected.
-feedback and surveys
+feedback and surveys:
 The Feedback and Surveys module provides a platform for alumni to voice opinions, suggest improvements, and contribute ideas. Features like anonymous submissions and real-time analytics ensure feedback is constructive and impactful, guiding the association's future initiatives.
 
 ## Proposed Solution / Architecture Diagram
